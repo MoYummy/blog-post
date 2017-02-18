@@ -1,2 +1,2 @@
 # blog-post
-License CC-BY4.0
+License CC-BY-4.0
