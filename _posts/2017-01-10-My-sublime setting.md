@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Sublime setting"
-date:       2017-01-10 13:32:00
+date:       2017-01-10 13:32:00+0800
 categories: [stuff]
 tags:       [sublime]
 ---
