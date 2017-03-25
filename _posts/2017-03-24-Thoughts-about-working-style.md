@@ -2,8 +2,8 @@
 layout:     post
 title:      "Thoughts about working style"
 date:       2017-03-24 15:48:00+0800
-categories: [stuff]
-tags:       [stuff]
+categories: [thoughts]
+tags:       [stuff,thoughts]
 ---
 ### 短期目标与长期目标
 
@@ -17,7 +17,7 @@ tags:       [stuff]
 
 可能真实情况下，单就一个User Story，两者差的不多，从长期看，孰优孰劣，一目了然，好比O(log(n))和O(n)
 
-<table>
+<table class="table table-bordered table-striped table-condensed">
   <tr>
     <th>index</th>
     <th>mhr</th>
