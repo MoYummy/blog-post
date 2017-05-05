@@ -20,4 +20,4 @@
 
 satisfaction: whether the work is interesting
 accomplishment: whether the work can be done
-
+achievement: what you can achieve after you finish
